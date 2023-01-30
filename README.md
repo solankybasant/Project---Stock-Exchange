@@ -16,7 +16,7 @@ seaborn
 scikit-learn
 
 
-##Model
+## Model
 The model used for this project is a multi-layer perceptron classifier from the scikit-learn library. 
 The headlines are processed using natural language processing techniques such as tokenization and stop-word removal. 
 The processed data is then used to train the classifier.
