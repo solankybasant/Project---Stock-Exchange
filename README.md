@@ -3,13 +3,18 @@ Stock Market Price Prediction
 This repository contains code for predicting stock market prices using news articles from around the globe.
 
 ## Requirements
-*python >= 3.6
-*pandas
-*numpy
-*matplotlib
-*seaborn
-*scikit-learn
-*nltk
+python >= 3.6
+
+pandas
+
+numpy
+
+matplotlib
+
+seaborn
+
+scikit-learn
+
 
 ##Model
 The model used for this project is a multi-layer perceptron classifier from the scikit-learn library. 
